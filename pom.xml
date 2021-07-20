@@ -11,7 +11,7 @@
 	<groupId>org.cefim</groupId>
 	<artifactId>patatemaison</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>patatemaison</name>
+	<name>registry</name>
 	<description>Patate Maison Registry</description>
 	<properties>
 		<java.version>11</java.version>
